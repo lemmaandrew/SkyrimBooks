@@ -1,0 +1,14 @@
+{
+  "name": "skyrimbooks",
+  "version": "1.0.0",
+  "description": "A utility to keep track of what books I've found and need to find for the Legacy of the Dragonborn library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lemma Andrew",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
